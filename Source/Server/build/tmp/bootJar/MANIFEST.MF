@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: Rigers Ura
+Build-Timestamp: 2021-01-24T21:49:03.590+0100
+Created-By: Gradle 6.6.1
+Build-Jdk: 11.0.3 (Oracle Corporation 11.0.3+12-LTS)
+Build-OS: Windows 10 amd64 10.0
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: server.main.MainServer
+Spring-Boot-Version: 2.3.3.RELEASE
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+

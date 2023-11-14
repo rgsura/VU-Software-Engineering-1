@@ -1,0 +1,72 @@
+server/exceptions/player/NotPlayersTurnException.java
+ server.exceptions.player.NotPlayersTurnException
+server/model/movement/MovementValidator.java
+ server.model.movement.MovementValidator
+server/exceptions/map/IncorrectNumberOfMountainFieldsException.java
+ server.exceptions.map.IncorrectNumberOfMountainFieldsException
+server/model/game/Game.java
+ server.model.game.Game
+server/controller/PlayerController.java
+ server.controller.PlayerController
+server/exceptions/map/IncorrectNumberOfGrassFieldsException.java
+ server.exceptions.map.IncorrectNumberOfGrassFieldsException
+server/exceptions/map/InvalidLongBorderWaterFiledNumberException.java
+ server.exceptions.map.InvalidLongBorderWaterFiledNumberException
+server/exceptions/map/IslandInHalfMapException.java
+ server.exceptions.map.IslandInHalfMapException
+server/exceptions/GenericExampleException.java
+ server.exceptions.GenericExampleException
+server/exceptions/map/ForNotInGrassException.java
+ server.exceptions.map.ForNotInGrassException
+server/exceptions/player/InsufficientTimeBetweenRequestsException.java
+ server.exceptions.player.InsufficientTimeBetweenRequestsException
+server/exceptions/player/InvalidPlayerDataException.java
+ server.exceptions.player.InvalidPlayerDataException
+server/model/map/HalfMapRaw.java
+ server.model.map.HalfMapRaw
+server/controller/MapController.java
+ server.controller.MapController
+server/exceptions/map/InvalidShortBorderWaterFiledNumberException.java
+ server.exceptions.map.InvalidShortBorderWaterFiledNumberException
+server/exceptions/game/MaxNumberOfPlayersReachedException.java
+ server.exceptions.game.MaxNumberOfPlayersReachedException
+server/model/game/PlayerValidator.java
+ server.model.game.PlayerValidator
+server/model/map/FullMapRaw.java
+ server.model.map.FullMapRaw
+server/model/movement/MovementInitializer.java
+ server.model.movement.MovementInitializer
+server/model/game/GameValidator.java
+ server.model.game.GameValidator
+server/exceptions/game/InvalidGameIdException.java
+ server.exceptions.game.InvalidGameIdException
+server/model/map/HalfMapValidator.java
+ server.model.map.HalfMapValidator
+server/controller/RunningGamesController.java
+ server.controller.RunningGamesController
+server/exceptions/map/FortNotFoundExpection.java
+ server.exceptions.map.FortNotFoundExpection
+server/model/game/RunningGames.java
+ server.model.game.RunningGames
+ server.model.game.RunningGames$1
+server/exceptions/game/GameAlreadyOverException.java
+ server.exceptions.game.GameAlreadyOverException
+server/model/game/Player.java
+ server.model.game.Player
+server/exceptions/player/PlayerHasAlreadyTransferedHalfMapException.java
+ server.exceptions.player.PlayerHasAlreadyTransferedHalfMapException
+server/exceptions/map/IncorrectNumberOfFieldsException.java
+ server.exceptions.map.IncorrectNumberOfFieldsException
+server/exceptions/player/InvalidPlayerIdException.java
+ server.exceptions.player.InvalidPlayerIdException
+server/main/ServerEndpoints.java
+ server.main.ServerEndpoints
+server/main/MainServer.java
+ server.main.MainServer
+server/hibernate/SQLiteDialect.java
+ server.hibernate.SQLiteDialect
+ server.hibernate.SQLiteDialect$1
+server/controller/GameController.java
+ server.controller.GameController
+server/exceptions/map/IncorrectNumberOfWaterFieldsException.java
+ server.exceptions.map.IncorrectNumberOfWaterFieldsException
